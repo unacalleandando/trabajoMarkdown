@@ -1,4 +1,4 @@
-﻿:Home
+﻿layout: Home
 
 @description my description
 
