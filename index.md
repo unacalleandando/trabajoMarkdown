@@ -1,4 +1,7 @@
-﻿layout: Home
+﻿---
+layout: Home
+title: pagina principal
+---
 
 @description my description
 
